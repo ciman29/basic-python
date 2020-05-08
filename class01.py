@@ -1,7 +1,7 @@
 class person():
 	def __init__(self, name): 
 		# 參數名稱self是慣例,可任意改
-		# self represents the instance of the class.
+		# self represents the instance of the clas.
 		self.name = name
 
 '''
